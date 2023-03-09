@@ -1,0 +1,11 @@
+{
+  "name": "clerkk-server",
+  "version": "1.0.0",
+  "description": "This is the server for clerkk, a voice recording app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "henzyd",
+  "license": "ISC"
+}
